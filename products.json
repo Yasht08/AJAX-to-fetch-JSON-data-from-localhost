@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Acer Nitro 5",
+    "description": "Latest High Speed Gaming Performance",
+    "price": 79900,
+    "image": "acer.jpg"
+  },
+  {
+    "name": "Acer Predator Helios Neo 16",
+    "description": "Next Gen Performance: Intel Core i7-13700HX processor Mobile Intel HM770 PCH Chipset",
+    "price": 144990,
+    "image": "pred.jpg"
+  },
+  {
+    "name": "MSI Cyborg 15",
+    "description": "Processor: 12th Generation Intel Core i7-12650H Up To 4.70GHz",
+    "price": 95999,
+    "image": "cyborg.jpg"
+  },
+  {
+    "name": "Lenovo ThinkPad E14",
+    "description": " Intel Core i7 12th Gen 14 FHD IPS Thin and Light Laptop",
+    "price": 40000,
+    "image": "len.jpg"
+  }
+]
